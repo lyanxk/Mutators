@@ -1,0 +1,5 @@
+{
+  "itemGroup.mutators": "Example Mod Tab",
+  "block.mutators.example_block": "Example Block",
+  "item.mutators.example_item": "Example Item"
+}
